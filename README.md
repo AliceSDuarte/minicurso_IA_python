@@ -3,9 +3,7 @@
 Material de apoio do minicurso da **X Semana do PIEPEX** — Instituto de Ciências Sociais Aplicadas (ICSA).
 O repositório reúne os **slides da apresentação** e o **notebook** com todos os exemplos práticos executados em aula.
 
-[![Aberto no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU-USUARIO/SEU-REPOSITORIO/blob/main/minicurso_ciencia_de_dados.ipynb)
-
-> Troque `SEU-USUARIO/SEU-REPOSITORIO` no link acima pelo caminho do seu repositório para o botão funcionar.
+[![Aberto no Colab](https://colab.research.google.com/drive/1DqovdPxV4e5tM81tAsDeJLlroGjlnN9A#scrollTo=MYnEthtCOKSa)
 
 ---
 
