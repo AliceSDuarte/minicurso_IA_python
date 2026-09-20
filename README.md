@@ -3,7 +3,9 @@
 Material de apoio do minicurso da **X Semana do PIEPEX** — Instituto de Ciências Sociais Aplicadas (ICSA).
 O repositório reúne os **slides da apresentação** e o **notebook** com todos os exemplos práticos executados em aula.
 
-[![Aberto no Colab](https://colab.research.google.com/drive/1DqovdPxV4e5tM81tAsDeJLlroGjlnN9A#scrollTo=MYnEthtCOKSa)
+[![Aberto no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DqovdPxV4e5tM81tAsDeJLlroGjlnN9A)
+
+> O botão acima abre o notebook da aula no Google Colab. Para editar e executar, use **Arquivo → Salvar uma cópia no Drive**.
 
 ---
 
@@ -36,7 +38,7 @@ Baixe o arquivo `minicurso-ciencia-de-dados.html` e abra com dois cliques em qua
 ### Notebook (recomendado: Google Colab)
 Escolha uma das opções:
 
-1. **Botão "Aberto no Colab"** no topo deste README (depois de ajustar o link do repositório).
+1. **Botão "Aberto no Colab"** no topo deste README (abre o notebook da aula).
 2. **Upload manual:** acesse [colab.research.google.com](https://colab.research.google.com/) → **Arquivo → Fazer upload de notebook** → selecione o `.ipynb`.
 3. **Localmente**, com Python instalado:
    ```bash
